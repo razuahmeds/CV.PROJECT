@@ -64,3 +64,33 @@ hr{
    
 
 }
+
+/*personal-sectino stert*/
+
+
+#personal-sectino{
+
+}
+
+.content{
+    margin-bottom: 30px auto;
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+
+.right-div{
+    width: 70%;
+    float: left;
+}
+
+.common-hr{
+    border: 7px solid rgb(249, 243, 243);
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+   
+
+}
