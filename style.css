@@ -68,10 +68,6 @@ hr{
 /*personal-sectino stert*/
 
 
-#personal-sectino{
-
-}
-
 .content{
     margin-bottom: 30px auto;
 }
@@ -94,3 +90,37 @@ hr{
    
 
 }
+
+/*education-sectino stert*/
+
+.edu-templata-left{
+    float: left;
+    width: 45%;
+
+}
+.edu-templata-right{
+    float: right;
+    width: 45%;
+
+}
+/*footer stert*/
+
+.bottom-container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.bottom-container a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 23px;
+}
+
+.bottom-container p{
+    color: whitesmoke;
+    margin-top: 23px;
+}
+
