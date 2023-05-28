@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: blanchedalmond;
+    font-family: 'Raleway', sans-serif;
+}
+.content{
+    max-width: 1000px;
+    
+    background-color: rgb(127, 202, 255);
+    margin: 0 auto;
+   padding: 20px;
+}
+
+.profile-image{
+
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+
+.header-bio{
+    float: left;
+    padding: 35px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(254, 255, 255);
+}
+.header-contact{
+    float: right;
+    padding: 33px;
+}
+
+.header-contact a{
+    text-decoration: none;
+    font-weight: bold;
+    color: blue; 
+    opacity: 3s;
+    font-size: 20px;
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: whitesmoke;
+}
+.div-clear{
+    clear: both;
+ 
+   
+}
+
+hr{
+    border: 5px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+   
+
+}
